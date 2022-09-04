@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">4thYearProject</string>
+    <string name="button2">Button2</string>
+    <string name="location">Location:</string>
+    <string name="price">Price:</string>
+    <string name="house_type">House Type</string>
+
+
+    <string-array name="House_names">
+        <item>"House 1"</item>
+        <item>"House 2"</item>
+        <item>"House 3"</item>
+        <item>"House 4"</item>
+        <item>"House 5"</item>
+        <item>"House 6"</item>
+        <item>"House 7"</item>
+        <item>"House 8"</item>
+        <item>"House 9"</item>
+        <item>"House 10"</item>
+
+
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

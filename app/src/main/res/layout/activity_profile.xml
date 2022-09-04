@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/blue"
+    tools:context=".ProfileActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#FBFBFB"
+        android:padding="10dp">
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Profile"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profilePhoto"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/profile"
+        android:layout_below="@id/toolBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/black"
+
+        />
+
+    <TextView
+        android:id="@+id/fName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/profilePhoto"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/browser_actions_bg_grey"
+        android:drawablePadding="5dp"
+        android:hint="First Name"
+        android:padding="10dp"
+
+        android:textColor="@color/black"
+
+        android:textColorHint="#2962FF" />
+
+    <TextView
+        android:id="@+id/lName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textColorHint="#2962FF"
+        android:layout_below="@id/fName"
+        android:layout_margin="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/browser_actions_bg_grey"
+        android:padding="10dp"
+        android:drawablePadding="5dp"
+        android:hint="Last Name"
+        />
+
+    <TextView
+        android:id="@+id/Uni"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_below="@id/lName"
+        android:textColorHint="#2962FF"
+        android:layout_margin="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/browser_actions_bg_grey"
+        android:padding="10dp"
+        android:drawablePadding="5dp"
+        android:hint="Name of University"
+        />
+
+    <TextView
+        android:id="@+id/Bio"
+        android:layout_width="match_parent"
+        android:textColorHint="#2962FF"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Uni"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/browser_actions_bg_grey"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Bio"
+        android:inputType="textMultiLine"
+        android:minHeight="48dp"
+        android:padding="10dp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColorHint="#2962FF"
+        android:textColor="@color/black"
+        android:layout_below="@id/Bio"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="1"
+        android:background="@color/browser_actions_bg_grey"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Age"
+        android:padding="10dp" />
+
+    <TextView
+        android:id="@+id/gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColorHint="#2962FF"
+        android:textColor="@color/black"
+        android:layout_below="@id/Bio"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_toEndOf="@id/age"
+        android:layout_weight="1"
+        android:background="@color/browser_actions_bg_grey"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Gender.."
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/editBtn"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gender"
+        android:layout_centerHorizontal="true"
+        android:background="#000000"
+        android:backgroundTint="#F3ECEC"
+        android:padding="25dp"
+        android:text="Edit Profile"
+        android:textColor="#3C6FF1"
+
+        android:textColorHint="#FDFDFD"
+        app:backgroundTint="#FFD600" />
+
+    <Button
+        android:id="@+id/homeButton"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editBtn"
+        android:layout_centerHorizontal="true"
+        android:padding="25dp"
+        android:text="Home"
+        android:textColor="#3C6FF1"
+        app:backgroundTint="#FFD600" />
+
+
+
+
+
+
+</RelativeLayout>
+

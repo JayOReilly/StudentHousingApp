@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/drawable/big_color.xml" value="0.2" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_add_property.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_digs.xml" value="0.25" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_digs_dash.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_elderly.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_elderly2.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_elderly_landlord.xml" value="0.25" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_first.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_land.xml" value="0.25" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_landlord.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_landlord_dash.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_log.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_maps.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_recycle_view.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_recycle_view1.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_reg.xml" value="0.264" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_reg1.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_rent2.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_room_share.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_room_share_landlord.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_show_rent.xml" value="0.12512664640324214" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/activity_view_properties_landlord.xml" value="0.25" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/digs_item.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/elderly_dash.xml" value="0.1" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/elderly_item.xml" value="0.25" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/item_rent.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/main_item.xml" value="0.176" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/main_rent.xml" value="0.1" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/r1_list.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/recycler_view.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/rent_item.xml" value="0.25" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/rent_show.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/roomshare_dash.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity.xml" value="0.136" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity1.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity10.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity2.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity3.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity4.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity5.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity6.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity7.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity8.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_activity9.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/layout/swipe_scene_activity.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene1.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene10.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene2.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene3.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene4.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene5.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene6.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene7.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene8.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/scene9.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/35383/AndroidStudioProjects/4thYearProject/app/src/main/res/xml/tinder_scene10.xml" value="0.21557971014492755" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android API 31 Platform" project-jdk-type="Android SDK" />
+</project>
